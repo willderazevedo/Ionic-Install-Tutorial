@@ -24,7 +24,7 @@ $ cd c:/caminho-do-projeto/nome-doprojeto
 $ ionic serve
 
 ```
-* Após essas etapas a sua aplicação rodará em um browser que por padrão terá este link: [HelloWorld](localhost:8100)
+* Após essas etapas a sua aplicação rodará em um browser que por padrão terá este link: [HelloWorld](https://localhost:8100)
 
 ### Onde posso encontrar mais sobre o Ionic 2? ###
 
