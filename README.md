@@ -15,8 +15,8 @@
 $ npm install -g ionic cordova
 
 # 2° Passo - Após instalar o ionic em sua máquina use o seguinte comando para criar seu primeiro projeto
-$ ionic start HelloWorld blank --type ionic-angular /* Versão mais recente */
-$ ionic start HelloWorld blank ---v2 /* Versão antiga */
+$ ionic start HelloWorld blank /* Versão mais recente */
+$ ionic start HelloWorld blank --v2 /* Versão antiga */
 
 # 3° Passo - Entre na pasta do projedo via prompt de comando
 $ cd c:/caminho-do-projeto/nome-doprojeto
